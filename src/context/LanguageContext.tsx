@@ -113,14 +113,16 @@ export const translations: Record<string, { en: string; bn: string }> = {
   partnershipEquity: { en: 'Partnership Equity Share', bn: 'দুই ভাইয়ের শেয়ার অনুপাত' },
   isolatedCapitalNotice: {
     en: 'Investments represent partner equity for vehicle purchase or major upgrade. They do NOT count as operating expenses and do NOT reduce daily profit.',
-    bn: 'মনে রাখবেন: গাড়ির বডি, ইঞ্জিন কেনা বা বড় কাজের মূলধন পরিচালন খরচ নয়। এটি দৈনন্দিন ট্রিপের নিট লাভ থেকে কাটা যাবে না।',
+    bn: 'মনে রাখবেন: গাড়ির বডি, ইঞ্জিন কেনা বা বড় কাজের মূলধন ,পরিচালন খরচ নয়। এটি দৈনন্দিন ট্রিপের নিট লাভ থেকে কাটা যাবে না।',
   },
 
   // Reports
   reports: { en: 'Financial Reports', bn: 'আয়-ব্যয় ও লাভের রিপোর্ট' },
   monthlyView: { en: 'Monthly View', bn: 'মাসভিত্তিক হিসাব' },
   yearlyView: { en: 'Yearly View', bn: 'বাৎসরিক হিসাব' },
-  printPdf: { en: 'Print / PDF', bn: 'প্রিন্ট / পিডিএফ' },
+  savePicture: { en: 'Save Picture', bn: 'ছবি সেভ করুন' },
+  savePdf: { en: 'Save PDF', bn: 'পিডিএফ ডাউনলোড' },
+  exporting: { en: 'Exporting...', bn: 'ডাউনলোড হচ্ছে...' },
   operatingDays: { en: 'Operating Days', bn: 'বাস চলার দিন' },
   monthByMonth: { en: 'Month-by-Month Summary', bn: 'মাসিক বিস্তারিত হিসাব' },
 
